@@ -1,15 +1,15 @@
 # Played-Games-List
-Список игр, в которые мне довелось поиграть в жизни / The list of the games I've played in my lifetime
+Список игр, в которые мне довелось поиграть в жизни. / _The list of the games I've played in my lifetime._
 
-Постараюсь указать большинство игр, в которое довелось поиграть. Все вспомнить не получилось. / I will try to mention most of the games I've played. I couldn't recall every single one.
+Постараюсь указать большинство игр, в которое довелось поиграть. Все вспомнить не получилось. / _I will try to mention most of the games I've played. I couldn't recall every single one._
 
 Мой стим/My Steam: https://steamcommunity.com/id/n7winner
 
-**P.S.** Список будет дополняться! / The list will be updated!
+**P.S.** Список будет дополняться! / _The list will be updated!_
 
-## PC, консоли, портативные консоли / PC, consoles, portable consoles:
+## PC, консоли, портативные консоли / _PC, consoles, portable consoles_:
 
-## Годы Выпуска / Year of release:
+## Годы Выпуска / _Year of release_:
 
 ### 1960-2000
 Half-life, Dune 2000, Doom, Doom 2, Earthworm Jim 3D, Pharaoh, Worms Armageddon, The Typing of the Dead, Carmageddon, Fallout 2, Розовая Пантера Фокус-Покус, Metal Slug 2, StarCraft, Братья Пилоты: По следам полосатого слона, Crash Bandicoot, Duke Nukem 3D, Pokémon Red и Blue, Pokemon Fire Red, Pokemon Gold, Warcraft 2, Tekken 3, Worms, Wipeout, Star Wars: Dark Forces, Поле Чудес, Prince of Persia, Alien Shooter, 
@@ -81,12 +81,12 @@ Black Mesa, Nioh 2, TFT, Doom Eternal, Half-Life Alyx, Legends of Runeterra, Dee
 Outriders, Guilty Gear Strive, Resident Evil VIllage, Subnautica Below Zero, Biomutant, Chivalry 2, New World, Road 96, Twelve Minutes, Back 4 Blood, Deathloop, Unmetal...
 
 
-## Мобильные устройства / Mobile devices
+## Мобильные устройства / _Mobile devices_:
 
 Orna - GPS RPG, Pirate Outlaws, Slay The Spire, Stardew Valley, My Friend Pedro, Terraria, Dead Cells, This War of Mine, Don't Starve, Reigns, GameDev Tycoon, The Room, Meteorfall, Guardian Tales, Tales of Wind, Night of the Full Moon, Endless Dungeon, Cookie Clicker, Subway Surfers, Fruit Ninja, Angry Birds, Hearthstone, Lineage 2 Revolution, Ведьмак (GPS), Wild Rift, Among Us, EVE Echoes, SINoAlice, Tiny Room Stories, TFT, Black Desert Mobile, Lophis Roguelike, Shadow Of Death Dark Knight, Auto Chess, Valkyre Connect, Card Thief, Underhand, Timing Hero, Paladins Strike, Космические Рейнджеры, PUBG Mobile, Sonny, Not not, Dead Ahead, Black Survival, Soul Knight, Tap Souls, Bit Heroes, Age of War, Choices Stories, Soul Hunters, The Greedy Cave, Tap Titans 2, Burrito Bison, 2048, Hero Strike, Alien Shooter, Vector, Jetpack Joyride, Shadowfight 2, Zenonia 4, Speedy Ninja, Fallout Shelter, Dead Shell, Pocket Wizard, Dungeon Link, Pixel Dungeon, Doodle Jump, Galaxy on Fire 2, Retry, Little Alchemist, Random Heroes, Dumb Ways to Die, Subway Surfers, Dungeon Hunter… 
 
 
-## Жанры / Genres:
+## Жанры / _Genres_:
 
 ### RTS
 Dune 2, Dune 2000, Emperor: Battle for Dune, Pharaoh, Age of Empires 2, Age of Empires 3, Starcraft, Starcraft 2, Warcraft 3 + Сustom Maps, The Lord of the Rings: Battle for Middle-Earth, They Are Billions, Frostpunk, CC: Red Alert 2, Company of Heroes, Rise of Nations, Star Wars: Empire at War, Age of Darkness: Final Stand, Anno 1800, Anno 2205, Anno 2070, Fieldrunners (а также множество других Tower Defense), Bloons TD 5,6, Natural Selection 2 (немалая часть этой игры - RTS), (Если считать MOBA за RTS, то ещё и Dota, Dota 2, Heroes of Newerth, League of Legends, Heroes of the Storm, Master x Master, Smite и прочие MOБы), PLAGUE INC., Fallout Shelter, RimWorld, Civilization 5,6, FTL: Faster Than Light, Red Sun, Black and White 1,2, Teamfight Tactics, Dota Underlords
